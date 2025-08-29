@@ -11,3 +11,13 @@ console.log(tiponumber1+tiponumber2)
 console.log(tiponumber2/tiponumber1)
 console.log(tiponumber1*tiponumber2)
 
+//let e const
+
+let meuNome = "Vinicius Freitas Miguel"
+console.log(meuNome)
+meuNome = "Vinifmiguel"
+console.log(meuNome)
+
+
+const meuNome2 = "Vinicius Freitas Miguel"
+console.log(meuNome2)
